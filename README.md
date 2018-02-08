@@ -1,4 +1,4 @@
-[![AD5252](AD5252_I2C.png)](https://store.ncd.io/product/analog-devices-ad5252-digital-100k-potentiometer-2-channel-256-position-i2c-mini-module/).
+[![AD5252](AD5252_I2CPOT.png)](https://store.ncd.io/product/analog-devices-ad5252-digital-100k-potentiometer-2-channel-256-position-i2c-mini-module/).
 
 # AD5252
 
